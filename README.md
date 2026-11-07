@@ -4,7 +4,7 @@ Responsive, read-only fantasy football dashboard for **plasmiz**, league **14135
 
 ## Features
 - Live league metadata, roster and injury/bye flags
-- Standings by win percentage and points for; FAAB balances
+- Standings by win percentage and points for; points for and against
 - Week 1–18 matchups with actual scores and commissioner overrides
 - Transactions, including player moves and traded picks
 - Roster search and starter/bench/reserve filters
