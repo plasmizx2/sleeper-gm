@@ -20,3 +20,8 @@ Open http://localhost:8080. Requests go directly to https://api.sleeper.app/v1. 
 GitHub Pages serves `main` from `/` at https://plasmizx2.github.io/sleeper-gm/ . Configure Settings → Pages → Deploy from a branch → main → /(root). `.nojekyll` keeps this a static site.
 
 API documentation: https://docs.sleeper.com/
+
+## Verified roster endpoint
+`https://plasmizx2.github.io/sleeper-gm/roster.json` is plain JSON, readable without JavaScript. It identifies plasmiz by Sleeper user ID, includes all current player names/IDs and starter, bench, reserve and taxi assignments, and records `verified_at` and `expires_at` in UTC.
+
+GitHub Actions refreshes and deploys it every three hours (00:17, 03:17, etc. UTC), on pushes, or manually. Scheduled runs may be delayed by GitHub; they are not exact-time guarantees. Failed verification preserves the last snapshot and fails the run. Consumers must reject expired snapshots (four-hour freshness window), fetch directly from Sleeper if possible, or withhold player-specific advice. This workflow refreshes roster data; it does not generate or modify a ChatGPT scheduled GM report.
