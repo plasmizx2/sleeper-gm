@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-07T19:26:38.411Z",
-  "expires_at": "2026-11-07T23:26:38.411Z",
+  "verified_at": "2026-11-08T00:38:19.684Z",
+  "expires_at": "2026-11-08T04:38:19.684Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -46,7 +46,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "slot": "reserve"
     },
     {
@@ -138,10 +138,10 @@
       "slot": "starter"
     },
     {
-      "player_id": "DET",
-      "name": "Detroit Lions",
+      "player_id": "CIN",
+      "name": "Cincinnati Bengals",
       "position": "DEF",
-      "team": "DET",
+      "team": "CIN",
       "injury_status": null,
       "slot": "starter"
     }
@@ -156,7 +156,7 @@
     "1466",
     "6813",
     "12185",
-    "DET"
+    "CIN"
   ],
   "empty_starter_slots": 0
 }
