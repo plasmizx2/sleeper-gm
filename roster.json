@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-08T10:25:18.225Z",
-  "expires_at": "2026-11-08T14:25:18.225Z",
+  "verified_at": "2026-11-08T17:56:20.280Z",
+  "expires_at": "2026-11-08T21:56:20.280Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -58,20 +58,12 @@
       "slot": "starter"
     },
     {
-      "player_id": "1479",
-      "name": "Keenan Allen",
-      "position": "WR",
-      "team": "IND",
-      "injury_status": null,
-      "slot": "starter"
-    },
-    {
       "player_id": "2449",
       "name": "Stefon Diggs",
       "position": "WR",
       "team": "WAS",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "4217",
@@ -80,6 +72,14 @@
       "team": "SF",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "5846",
+      "name": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": null,
+      "slot": "bench"
     },
     {
       "player_id": "5947",
@@ -143,7 +143,7 @@
     "8151",
     "9221",
     "7564",
-    "1479",
+    "2449",
     "4217",
     "1466",
     "6813",
