@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-10T03:35:34.662Z",
-  "expires_at": "2026-11-10T07:35:34.662Z",
+  "verified_at": "2026-11-10T14:55:36.118Z",
+  "expires_at": "2026-11-10T18:55:36.118Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
   "league_id": "1413584821648687104",
   "league_name": "WET WILLYS",
   "season": "2026",
-  "week": 9,
+  "week": 10,
   "roster_id": 1,
   "source_urls": [
     "https://api.sleeper.app/v1/user/plasmiz",
@@ -63,7 +63,7 @@
       "position": "WR",
       "team": "WAS",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "4217",
@@ -130,12 +130,12 @@
       "slot": "starter"
     },
     {
-      "player_id": "CLE",
-      "name": "Cleveland Browns",
+      "player_id": "LAR",
+      "name": "Los Angeles Rams",
       "position": "DEF",
-      "team": "CLE",
+      "team": "LAR",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     }
   ],
   "starter_ids": [
@@ -143,12 +143,12 @@
     "8151",
     "9221",
     "7564",
-    "2449",
+    "0",
     "4217",
     "1466",
     "6813",
     "12185",
-    "CLE"
+    "0"
   ],
-  "empty_starter_slots": 0
+  "empty_starter_slots": 2
 }
