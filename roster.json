@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-11T17:09:47.536Z",
-  "expires_at": "2026-11-11T21:09:47.536Z",
+  "verified_at": "2026-11-12T00:45:52.803Z",
+  "expires_at": "2026-11-12T04:45:52.803Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -54,7 +54,7 @@
       "name": "Denzel Boston",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "slot": "bench"
     },
     {
