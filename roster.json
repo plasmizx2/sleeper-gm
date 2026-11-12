@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-12T11:15:08.621Z",
-  "expires_at": "2026-11-12T15:15:08.621Z",
+  "verified_at": "2026-11-12T19:55:52.483Z",
+  "expires_at": "2026-11-12T23:55:52.483Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -22,6 +22,14 @@
       "name": "Kirk Cousins",
       "position": "QB",
       "team": "MIN",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
+      "player_id": "11783",
+      "name": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
       "injury_status": null,
       "slot": "bench"
     },
@@ -72,14 +80,6 @@
       "team": "SF",
       "injury_status": null,
       "slot": "starter"
-    },
-    {
-      "player_id": "5846",
-      "name": "DK Metcalf",
-      "position": "WR",
-      "team": "PIT",
-      "injury_status": null,
-      "slot": "bench"
     },
     {
       "player_id": "6813",
