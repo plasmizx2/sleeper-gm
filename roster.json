@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-14T10:28:43.162Z",
-  "expires_at": "2026-11-14T14:28:43.162Z",
+  "verified_at": "2026-11-14T18:04:13.811Z",
+  "expires_at": "2026-11-14T22:04:13.811Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -94,7 +94,7 @@
       "name": "Kenneth Walker III",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "slot": "bench"
     },
     {
