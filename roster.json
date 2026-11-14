@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-13T19:44:01.387Z",
-  "expires_at": "2026-11-13T23:44:01.387Z",
+  "verified_at": "2026-11-14T01:27:32.344Z",
+  "expires_at": "2026-11-14T05:27:32.344Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -26,14 +26,6 @@
       "slot": "bench"
     },
     {
-      "player_id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null,
-      "slot": "bench"
-    },
-    {
       "player_id": "12185",
       "name": "Spencer Shrader",
       "position": "K",
@@ -50,12 +42,12 @@
       "slot": "bench"
     },
     {
-      "player_id": "12507",
-      "name": "Omarion Hampton",
+      "player_id": "13337",
+      "name": "Emmett Johnson",
       "position": "RB",
-      "team": "LAC",
+      "team": "KC",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "13346",
@@ -103,7 +95,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": "Questionable",
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "8183",
@@ -122,12 +114,20 @@
       "slot": "starter"
     },
     {
+      "player_id": "9501",
+      "name": "DeMario Douglas",
+      "position": "WR",
+      "team": "NE",
+      "injury_status": null,
+      "slot": "starter"
+    },
+    {
       "player_id": "9756",
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null,
-      "slot": "starter"
+      "injury_status": "Questionable",
+      "slot": "bench"
     },
     {
       "player_id": "LAR",
@@ -140,13 +140,13 @@
   ],
   "starter_ids": [
     "8183",
-    "8151",
+    "6813",
     "9221",
     "7564",
-    "9756",
+    "9501",
     "4217",
     "1466",
-    "6813",
+    "13337",
     "12185",
     "LAR"
   ],
