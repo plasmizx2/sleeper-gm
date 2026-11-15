@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-15T16:22:58.216Z",
-  "expires_at": "2026-11-15T20:22:58.216Z",
+  "verified_at": "2026-11-15T22:50:07.156Z",
+  "expires_at": "2026-11-16T02:50:07.156Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -50,19 +50,11 @@
       "slot": "starter"
     },
     {
-      "player_id": "13346",
-      "name": "Denzel Boston",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": "Questionable",
-      "slot": "bench"
-    },
-    {
       "player_id": "1466",
       "name": "Travis Kelce",
       "position": "TE",
       "team": "KC",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "slot": "starter"
     },
     {
@@ -72,6 +64,14 @@
       "team": "SF",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "injury_status": null,
+      "slot": "bench"
     },
     {
       "player_id": "6813",
@@ -126,7 +126,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "slot": "bench"
     },
     {
