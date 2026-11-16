@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-15T22:50:07.156Z",
-  "expires_at": "2026-11-16T02:50:07.156Z",
+  "verified_at": "2026-11-16T06:32:14.917Z",
+  "expires_at": "2026-11-16T10:32:14.917Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -42,6 +42,14 @@
       "slot": "bench"
     },
     {
+      "player_id": "13294",
+      "name": "Makai Lemon",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
       "player_id": "13337",
       "name": "Emmett Johnson",
       "position": "RB",
@@ -64,6 +72,14 @@
       "team": "SF",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "4881",
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "injury_status": "IR",
+      "slot": "reserve"
     },
     {
       "player_id": "5995",
@@ -114,14 +130,6 @@
       "slot": "starter"
     },
     {
-      "player_id": "9501",
-      "name": "DeMario Douglas",
-      "position": "WR",
-      "team": "NE",
-      "injury_status": null,
-      "slot": "starter"
-    },
-    {
       "player_id": "9756",
       "name": "Jordan Addison",
       "position": "WR",
@@ -143,12 +151,12 @@
     "6813",
     "9221",
     "7564",
-    "9501",
+    "0",
     "4217",
     "13337",
     "1466",
     "12185",
     "LAR"
   ],
-  "empty_starter_slots": 0
+  "empty_starter_slots": 1
 }
