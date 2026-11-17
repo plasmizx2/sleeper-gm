@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-17T03:55:13.931Z",
-  "expires_at": "2026-11-17T07:55:13.931Z",
+  "verified_at": "2026-11-17T16:02:25.466Z",
+  "expires_at": "2026-11-17T20:02:25.466Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
   "league_id": "1413584821648687104",
   "league_name": "WET WILLYS",
   "season": "2026",
-  "week": 10,
+  "week": 11,
   "roster_id": 1,
   "source_urls": [
     "https://api.sleeper.app/v1/user/plasmiz",
@@ -34,12 +34,20 @@
       "slot": "bench"
     },
     {
+      "player_id": "12499",
+      "name": "Elic Ayomanor",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
       "player_id": "12526",
       "name": "Tetairoa McMillan",
       "position": "WR",
       "team": "CAR",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "13293",
@@ -55,7 +63,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "1466",
@@ -111,7 +119,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": "Out",
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "8183",
@@ -130,33 +138,33 @@
       "slot": "starter"
     },
     {
+      "player_id": "9225",
+      "name": "Tank Bigsby",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "IR",
+      "slot": "reserve"
+    },
+    {
       "player_id": "CHI",
       "name": "Chicago Bears",
       "position": "DEF",
       "team": "CHI",
-      "injury_status": null,
-      "slot": "bench"
-    },
-    {
-      "player_id": "LAR",
-      "name": "Los Angeles Rams",
-      "position": "DEF",
-      "team": "LAR",
       "injury_status": null,
       "slot": "starter"
     }
   ],
   "starter_ids": [
     "8183",
-    "6813",
+    "8151",
     "9221",
     "7564",
-    "0",
+    "12526",
     "4217",
-    "13337",
+    "6813",
     "1466",
     "12185",
-    "LAR"
+    "CHI"
   ],
-  "empty_starter_slots": 1
+  "empty_starter_slots": 0
 }
