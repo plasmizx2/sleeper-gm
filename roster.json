@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-16T19:37:41.716Z",
-  "expires_at": "2026-11-16T23:37:41.716Z",
+  "verified_at": "2026-11-17T03:55:13.931Z",
+  "expires_at": "2026-11-17T07:55:13.931Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -17,14 +17,6 @@
   ],
   "advice_policy": "Before player-specific advice, verify this snapshot is unexpired and matches plasmiz and this league. If stale, missing, or unavailable, retrieve the current roster directly from Sleeper or withhold player-specific advice. Absence means not currently rostered. Injury status is a snapshot, not a game-day guarantee.",
   "players": [
-    {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "MIN",
-      "injury_status": null,
-      "slot": "bench"
-    },
     {
       "player_id": "12185",
       "name": "Spencer Shrader",
@@ -42,10 +34,18 @@
       "slot": "bench"
     },
     {
-      "player_id": "13294",
-      "name": "Makai Lemon",
+      "player_id": "12526",
+      "name": "Tetairoa McMillan",
       "position": "WR",
-      "team": "PHI",
+      "team": "CAR",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
+      "player_id": "13293",
+      "name": "Ja'Kobi Lane",
+      "position": "WR",
+      "team": "BAL",
       "injury_status": null,
       "slot": "bench"
     },
@@ -130,11 +130,11 @@
       "slot": "starter"
     },
     {
-      "player_id": "9756",
-      "name": "Jordan Addison",
-      "position": "WR",
-      "team": "MIN",
-      "injury_status": "Out",
+      "player_id": "CHI",
+      "name": "Chicago Bears",
+      "position": "DEF",
+      "team": "CHI",
+      "injury_status": null,
       "slot": "bench"
     },
     {
