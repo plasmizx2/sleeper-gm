@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-17T16:02:25.466Z",
-  "expires_at": "2026-11-17T20:02:25.466Z",
+  "verified_at": "2026-11-18T00:58:40.453Z",
+  "expires_at": "2026-11-18T04:58:40.453Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -31,7 +31,7 @@
       "position": "WR",
       "team": "DEN",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "12499",
@@ -47,7 +47,7 @@
       "position": "WR",
       "team": "CAR",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "13293",
@@ -103,7 +103,7 @@
       "position": "RB",
       "team": "IND",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "7564",
@@ -138,20 +138,20 @@
       "slot": "starter"
     },
     {
-      "player_id": "9225",
-      "name": "Tank Bigsby",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": "IR",
-      "slot": "reserve"
+      "player_id": "9756",
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": "Out",
+      "slot": "bench"
     },
     {
-      "player_id": "CHI",
-      "name": "Chicago Bears",
+      "player_id": "LAC",
+      "name": "Los Angeles Chargers",
       "position": "DEF",
-      "team": "CHI",
+      "team": "LAC",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     }
   ],
   "starter_ids": [
@@ -159,12 +159,12 @@
     "8151",
     "9221",
     "7564",
-    "12526",
+    "0",
     "4217",
-    "6813",
     "1466",
+    "12492",
     "12185",
-    "CHI"
+    "0"
   ],
-  "empty_starter_slots": 0
+  "empty_starter_slots": 2
 }
