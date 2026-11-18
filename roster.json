@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-18T11:44:35.917Z",
-  "expires_at": "2026-11-18T15:44:35.917Z",
+  "verified_at": "2026-11-18T20:33:44.775Z",
+  "expires_at": "2026-11-19T00:33:44.775Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -17,6 +17,14 @@
   ],
   "advice_policy": "Before player-specific advice, verify this snapshot is unexpired and matches plasmiz and this league. If stale, missing, or unavailable, retrieve the current roster directly from Sleeper or withhold player-specific advice. Absence means not currently rostered. Injury status is a snapshot, not a game-day guarantee.",
   "players": [
+    {
+      "player_id": "11563",
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null,
+      "slot": "bench"
+    },
     {
       "player_id": "11635",
       "name": "Ladd McConkey",
@@ -50,20 +58,12 @@
       "slot": "bench"
     },
     {
-      "player_id": "12499",
-      "name": "Elic Ayomanor",
+      "player_id": "12519",
+      "name": "Luther Burden III",
       "position": "WR",
-      "team": "TEN",
+      "team": "CHI",
       "injury_status": null,
-      "slot": "bench"
-    },
-    {
-      "player_id": "13293",
-      "name": "Ja'Kobi Lane",
-      "position": "WR",
-      "team": "BAL",
-      "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "13337",
@@ -90,14 +90,6 @@
       "slot": "starter"
     },
     {
-      "player_id": "4881",
-      "name": "Lamar Jackson",
-      "position": "QB",
-      "team": "BAL",
-      "injury_status": "IR",
-      "slot": "bench"
-    },
-    {
       "player_id": "5995",
       "name": "Justice Hill",
       "position": "RB",
@@ -106,12 +98,12 @@
       "slot": "bench"
     },
     {
-      "player_id": "6813",
-      "name": "Jonathan Taylor",
-      "position": "RB",
-      "team": "IND",
+      "player_id": "6770",
+      "name": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "7564",
@@ -130,33 +122,33 @@
       "slot": "starter"
     },
     {
-      "player_id": "8183",
-      "name": "Brock Purdy",
-      "position": "QB",
-      "team": "SF",
-      "injury_status": null,
-      "slot": "starter"
-    },
-    {
       "player_id": "9221",
       "name": "Jahmyr Gibbs",
       "position": "RB",
       "team": "DET",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "DET",
+      "name": "Detroit Lions",
+      "position": "DEF",
+      "team": "DET",
+      "injury_status": null,
+      "slot": "starter"
     }
   ],
   "starter_ids": [
-    "8183",
+    "6770",
     "8151",
     "9221",
     "7564",
-    "0",
+    "12519",
     "4217",
-    "1466",
     "0",
+    "1466",
     "12185",
-    "0"
+    "DET"
   ],
-  "empty_starter_slots": 3
+  "empty_starter_slots": 1
 }
