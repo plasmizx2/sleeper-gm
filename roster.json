@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-19T11:42:39.388Z",
-  "expires_at": "2026-11-19T15:42:39.388Z",
+  "verified_at": "2026-11-19T20:39:21.024Z",
+  "expires_at": "2026-11-20T00:39:21.024Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -17,14 +17,6 @@
   ],
   "advice_policy": "Before player-specific advice, verify this snapshot is unexpired and matches plasmiz and this league. If stale, missing, or unavailable, retrieve the current roster directly from Sleeper or withhold player-specific advice. Absence means not currently rostered. Injury status is a snapshot, not a game-day guarantee.",
   "players": [
-    {
-      "player_id": "11630",
-      "name": "Roman Wilson",
-      "position": "WR",
-      "team": "PIT",
-      "injury_status": "IR",
-      "slot": "reserve"
-    },
     {
       "player_id": "11635",
       "name": "Ladd McConkey",
@@ -48,6 +40,14 @@
       "team": "NYG",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "12489",
+      "name": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": "IR",
+      "slot": "reserve"
     },
     {
       "player_id": "12492",
@@ -74,20 +74,20 @@
       "slot": "starter"
     },
     {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null,
-      "slot": "bench"
-    },
-    {
       "player_id": "1466",
       "name": "Travis Kelce",
       "position": "TE",
       "team": "KC",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
+      "injury_status": null,
+      "slot": "bench"
     },
     {
       "player_id": "4217",
@@ -128,6 +128,14 @@
       "team": "KC",
       "injury_status": "Questionable",
       "slot": "bench"
+    },
+    {
+      "player_id": "8154",
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "team": "ATL",
+      "injury_status": "IR",
+      "slot": "reserve"
     },
     {
       "player_id": "9221",
