@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-18T20:33:44.775Z",
-  "expires_at": "2026-11-19T00:33:44.775Z",
+  "verified_at": "2026-11-19T02:35:15.600Z",
+  "expires_at": "2026-11-19T06:35:15.600Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -26,6 +26,14 @@
       "slot": "bench"
     },
     {
+      "player_id": "11630",
+      "name": "Roman Wilson",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": "IR",
+      "slot": "reserve"
+    },
+    {
       "player_id": "11635",
       "name": "Ladd McConkey",
       "position": "WR",
@@ -47,7 +55,7 @@
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "12492",
@@ -71,7 +79,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "1466",
@@ -119,7 +127,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": "Questionable",
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "9221",
@@ -140,15 +148,15 @@
   ],
   "starter_ids": [
     "6770",
-    "8151",
+    "13337",
     "9221",
     "7564",
     "12519",
     "4217",
-    "0",
     "1466",
+    "12481",
     "12185",
     "DET"
   ],
-  "empty_starter_slots": 1
+  "empty_starter_slots": 0
 }
