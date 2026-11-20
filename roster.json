@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-19T20:39:21.024Z",
-  "expires_at": "2026-11-20T00:39:21.024Z",
+  "verified_at": "2026-11-20T02:20:20.012Z",
+  "expires_at": "2026-11-20T06:20:20.012Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -82,14 +82,6 @@
       "slot": "starter"
     },
     {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "injury_status": null,
-      "slot": "bench"
-    },
-    {
       "player_id": "4217",
       "name": "George Kittle",
       "position": "TE",
@@ -112,6 +104,14 @@
       "team": "CIN",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "6804",
+      "name": "Jordan Love",
+      "position": "QB",
+      "team": "GB",
+      "injury_status": null,
+      "slot": "bench"
     },
     {
       "player_id": "7564",
@@ -160,8 +160,8 @@
     "9221",
     "7564",
     "12519",
-    "4217",
     "1466",
+    "4217",
     "12481",
     "12185",
     "DET"
