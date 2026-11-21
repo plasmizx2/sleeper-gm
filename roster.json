@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-21T02:17:35.048Z",
-  "expires_at": "2026-11-21T06:17:35.048Z",
+  "verified_at": "2026-11-21T11:04:23.227Z",
+  "expires_at": "2026-11-21T15:04:23.227Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -39,7 +39,7 @@
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "12489",
@@ -74,14 +74,6 @@
       "slot": "bench"
     },
     {
-      "player_id": "13337",
-      "name": "Emmett Johnson",
-      "position": "RB",
-      "team": "KC",
-      "injury_status": null,
-      "slot": "starter"
-    },
-    {
       "player_id": "1466",
       "name": "Travis Kelce",
       "position": "TE",
@@ -106,20 +98,20 @@
       "slot": "starter"
     },
     {
-      "player_id": "6804",
-      "name": "Jordan Love",
-      "position": "QB",
-      "team": "GB",
-      "injury_status": null,
-      "slot": "bench"
-    },
-    {
       "player_id": "7564",
       "name": "Ja'Marr Chase",
       "position": "WR",
       "team": "CIN",
       "injury_status": null,
       "slot": "starter"
+    },
+    {
+      "player_id": "7839",
+      "name": "Evan McPherson",
+      "position": "K",
+      "team": "CIN",
+      "injury_status": null,
+      "slot": "bench"
     },
     {
       "player_id": "8151",
@@ -146,6 +138,14 @@
       "slot": "starter"
     },
     {
+      "player_id": "9753",
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
       "player_id": "DET",
       "name": "Detroit Lions",
       "position": "DEF",
@@ -156,15 +156,15 @@
   ],
   "starter_ids": [
     "6770",
-    "13337",
+    "0",
     "9221",
     "7564",
     "12519",
     "1466",
     "4217",
-    "12481",
+    "0",
     "12185",
     "DET"
   ],
-  "empty_starter_slots": 0
+  "empty_starter_slots": 2
 }
