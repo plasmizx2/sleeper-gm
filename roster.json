@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-21T11:04:23.227Z",
-  "expires_at": "2026-11-21T15:04:23.227Z",
+  "verified_at": "2026-11-21T19:17:38.749Z",
+  "expires_at": "2026-11-21T23:17:38.749Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -39,7 +39,7 @@
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "12489",
@@ -71,7 +71,7 @@
       "position": "WR",
       "team": "WAS",
       "injury_status": null,
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "1466",
@@ -156,15 +156,15 @@
   ],
   "starter_ids": [
     "6770",
-    "0",
     "9221",
+    "12481",
     "7564",
     "12519",
     "1466",
     "4217",
-    "0",
+    "13301",
     "12185",
     "DET"
   ],
-  "empty_starter_slots": 2
+  "empty_starter_slots": 0
 }
