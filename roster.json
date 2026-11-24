@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-24T02:14:23.152Z",
-  "expires_at": "2026-11-24T06:14:23.152Z",
+  "verified_at": "2026-11-24T13:46:08.334Z",
+  "expires_at": "2026-11-24T17:46:08.334Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
   "league_id": "1413584821648687104",
   "league_name": "WET WILLYS",
   "season": "2026",
-  "week": 11,
+  "week": 12,
   "roster_id": 1,
   "source_urls": [
     "https://api.sleeper.app/v1/user/plasmiz",
@@ -23,15 +23,7 @@
       "position": "WR",
       "team": "LAC",
       "injury_status": null,
-      "slot": "starter"
-    },
-    {
-      "player_id": "12185",
-      "name": "Spencer Shrader",
-      "position": "K",
-      "team": "IND",
-      "injury_status": null,
-      "slot": "starter"
+      "slot": "bench"
     },
     {
       "player_id": "12481",
@@ -122,12 +114,20 @@
       "slot": "starter"
     },
     {
+      "player_id": "7839",
+      "name": "Evan McPherson",
+      "position": "K",
+      "team": "CIN",
+      "injury_status": null,
+      "slot": "starter"
+    },
+    {
       "player_id": "8151",
       "name": "Kenneth Walker III",
       "position": "RB",
       "team": "KC",
       "injury_status": "Out",
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "8154",
@@ -146,10 +146,10 @@
       "slot": "starter"
     },
     {
-      "player_id": "DET",
-      "name": "Detroit Lions",
+      "player_id": "NYG",
+      "name": "New York Giants",
       "position": "DEF",
-      "team": "DET",
+      "team": "NYG",
       "injury_status": null,
       "slot": "starter"
     }
@@ -157,14 +157,14 @@
   "starter_ids": [
     "6770",
     "9221",
-    "12481",
+    "8151",
     "7564",
     "12519",
     "1466",
     "4217",
-    "11635",
-    "12185",
-    "DET"
+    "12481",
+    "7839",
+    "NYG"
   ],
   "empty_starter_slots": 0
 }
