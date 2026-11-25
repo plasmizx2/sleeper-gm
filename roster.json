@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-11-25T08:37:15.890Z",
-  "expires_at": "2026-11-25T12:37:15.890Z",
+  "verified_at": "2026-11-25T19:18:24.781Z",
+  "expires_at": "2026-11-25T23:18:24.781Z",
   "refresh_interval_hours": 3,
   "username": "plasmiz",
   "user_id": "1318510209970225152",
@@ -63,15 +63,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null,
-      "slot": "bench"
-    },
-    {
-      "player_id": "13346",
-      "name": "Denzel Boston",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": "Questionable",
-      "slot": "bench"
+      "slot": "starter"
     },
     {
       "player_id": "1466",
@@ -114,6 +106,14 @@
       "slot": "starter"
     },
     {
+      "player_id": "7567",
+      "name": "Kenny Gainwell",
+      "position": "RB",
+      "team": "TB",
+      "injury_status": null,
+      "slot": "bench"
+    },
+    {
       "player_id": "7839",
       "name": "Evan McPherson",
       "position": "K",
@@ -126,8 +126,8 @@
       "name": "Kenneth Walker III",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Questionable",
-      "slot": "starter"
+      "injury_status": "Out",
+      "slot": "bench"
     },
     {
       "player_id": "8154",
@@ -157,7 +157,7 @@
   "starter_ids": [
     "6770",
     "9221",
-    "8151",
+    "13337",
     "7564",
     "12519",
     "1466",
